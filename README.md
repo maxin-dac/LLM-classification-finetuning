@@ -2,7 +2,7 @@
 <img width="560" height="280" alt="kaggle_66631_logos_header" src="https://github.com/user-attachments/assets/090e2a37-b981-4df2-b8bd-070d22a49226" />
 
 ## Context & Objective
-This notebook performs an in-depth Exploratory Data Analysis (EDA) on the **LLM Chatbot Arena** dataset from Kaggle: [https://www.kaggle.com/competitions/llm-classification-finetuning/overview].
+This notebook performs an in-depth Exploratory Data Analysis (EDA) on the **LLM Chatbot Arena** dataset from [Kaggle](https://www.kaggle.com/competitions/llm-classification-finetuning/overview).
 The goal is to understand the structure of the data, and identify patterns that influence human preference between two model responses. 
 
 ## Notebook Structure & Workflow
@@ -23,7 +23,7 @@ The goal is to understand the structure of the data, and identify patterns that 
 A strong model should combine semantic understanding of prompt-response pairs with relative comparison features.
 
 ## Tech Stack & Libraries
-- **Language**: Python 3.13
+- **Language**: Python
 - **Data Manipulation**: `pandas`
 - **Text Processing**: `scikit-learn` (TF-IDF), safe `JSON` parsing
 - **Visualization**: `Matplotlib`, `Seaborn`
@@ -32,6 +32,4 @@ A strong model should combine semantic understanding of prompt-response pairs wi
 
 ---
 
-*To explore the detailed code, feel free to download the notebook file on this repo, or check out my Kaggle: [https://www.kaggle.com/code/maximendacleu/llm-classification-finetuning].*
-
-***By: Maxime NDACLEU | BI & Data Analyst***
+*To explore the detailed code, feel free to download the notebook file on this repo, or check out my [Kaggle](https://www.kaggle.com/code/maximendacleu/llm-classification-finetuning).*
