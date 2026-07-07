@@ -28,11 +28,11 @@ A strong model should combine semantic understanding of prompt-response pairs wi
 
 * **Data Manipulation:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-* **Text Processing:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) (`TF--IDF`) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+* **Text Processing:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
 * **Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-5B8DB8?style=flat)
 
-* **Modeling:** ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-2E8B57?style=flat) (`baseline model`)
+* **Modeling:** ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-2E8B57?style=flat) 
 
 * **Environment:** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
