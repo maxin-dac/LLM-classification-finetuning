@@ -23,12 +23,18 @@ The goal is to understand the structure of the data, and identify patterns that 
 A strong model should combine semantic understanding of prompt-response pairs with relative comparison features.
 
 ## Tech Stack & Libraries
-- **Language**: Python
-- **Data Manipulation**: `pandas`
-- **Text Processing**: `scikit-learn` (TF-IDF), safe `JSON` parsing
-- **Visualization**: `Matplotlib`, `Seaborn`
-- **Modeling**: Logistic Regression baseline
-- **Environment**: Kaggle Notebook
+
+* **Language:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+* **Data Manipulation:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+* **Text Processing:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) (`TF--IDF`) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+
+* **Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-5B8DB8?style=flat)
+
+* **Modeling:** ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-2E8B57?style=flat) (`baseline model`)
+
+* **Environment:** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 ---
 
